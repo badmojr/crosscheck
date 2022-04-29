@@ -88,7 +88,7 @@ if [ -f "$adlistFile" ]; then
                     fileMatch="${!fileMatchvar}"
                     entrSum=$(prints <<<"$fileMatch" |grep -c .)
                     matchSum=$(similarLines <(prints <<<"$file") <(prints <<<"$fileMatch") |grep -c .)
-                    percent=$(echo "$matchSum $entrSum" |awk '{printf "%.2f", $1 * 100 / $2}')
+                    percent=$(echo "$matchSum $entrSum" |awk '{printf "%.0f", $1 * 100 / $2}')
                     readarray -t resMd < <(echo -e "| $percent | $matchURL |\n")
                     resultMD+=("$resMd")
                     percent="$percent%"
