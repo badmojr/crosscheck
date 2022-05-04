@@ -23,6 +23,9 @@
 | 7 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 10 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 47 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 79 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 11 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -43,8 +46,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 33 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 21 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 18 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -71,6 +75,9 @@
 | 9 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 11 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 49 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 5 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 90 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 15 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -91,8 +98,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 26 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 67 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 20 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 11 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 30 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 20 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 32 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -119,6 +127,9 @@
 | 12 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 17 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 50 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 7 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 8 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 95 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 22 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 15 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -139,8 +150,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 43 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 78 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 27 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 28 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 56 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 27 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 41 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -167,6 +179,9 @@
 | 12 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 17 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 50 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 7 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 46 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 95 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 22 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 15 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -187,8 +202,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 43 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 78 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 35 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 29 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 56 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 35 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 47 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -215,6 +231,9 @@
 | 5 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 8 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 45 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 2 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 89 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 8 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -235,8 +254,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 7 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 6 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 13 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 7 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 13 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -263,6 +283,9 @@
 | 11 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 73 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 83 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 9 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 32 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 5 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 90 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 16 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 41 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -283,8 +306,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 52 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 22 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 26 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 22 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 31 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -311,6 +335,9 @@
 | 7 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 10 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 49 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 5 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 85 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 15 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -331,8 +358,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 13 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 29 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 17 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -359,6 +387,9 @@
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 17 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 73 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 6 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 85 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 15 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -379,8 +410,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 13 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 33 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 19 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -407,6 +439,9 @@
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 38 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 73 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 2 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 12 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 85 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 13 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 28 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -427,8 +462,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 17 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 12 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 33 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 12 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 20 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -455,6 +491,9 @@
 | 12 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 40 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 73 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 2 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 16 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 7 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 85 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 20 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 30 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -475,8 +514,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 17 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 26 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 26 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 43 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 26 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 40 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -503,6 +543,9 @@
 | 67 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 51 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 73 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 4 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 22 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 7 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 85 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 21 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 34 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -523,8 +566,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 17 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 26 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 26 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 43 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 26 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 40 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -551,6 +595,9 @@
 | 3 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 10 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 56 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 2 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 7 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 5 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -571,8 +618,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 13 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 2 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -599,6 +647,9 @@
 | 68 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 29 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 98 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 9 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 5 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 89 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 17 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 26 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -619,8 +670,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 17 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 14 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 21 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 44 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 14 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 24 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -647,6 +699,9 @@
 | 6 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 21 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 9 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 4 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 100 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 9 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 16 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -667,8 +722,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 21 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 16 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -695,6 +751,9 @@
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 16 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 68 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 4 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 99 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 19 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -715,8 +774,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 83 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 29 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 17 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -743,6 +803,9 @@
 | 11 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 21 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 100 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 5 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 99 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 15 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 19 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -763,8 +826,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 83 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 13 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 37 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 18 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -791,6 +855,9 @@
 | 9 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 13 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 72 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 21 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -811,8 +878,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 78 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 46 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 7 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -839,6 +907,9 @@
 | 12 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 7 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 39 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 1 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 1 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 76 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 13 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -859,8 +930,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 74 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 21 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 50 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 18 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -887,6 +959,9 @@
 | 2 | https://blocklistproject.github.io/Lists/ads.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 3 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 5 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 5 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -907,8 +982,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 39 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 11 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 6 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 21 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -935,6 +1011,9 @@
 | 24 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 68 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 7 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 34 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 20 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 13 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -955,8 +1034,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 4 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 89 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 8 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 23 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 6 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -983,6 +1063,9 @@
 | 25 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 11 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 19 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 11 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1003,9 +1086,166 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 4 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 67 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 5 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 30 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 5 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
+
+
+### https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt
+| % included | URL  |
+|---|---|
+| 7 | https://o0.pages.dev/mini/domains.txt |
+| 8 | https://o0.pages.dev/Lite/domains.txt |
+| 11 | https://o0.pages.dev/Pro/domains.txt |
+| 6 | https://o0.pages.dev/Xtra/domains.txt |
+| 23 | https://dbl.oisd.nl/basic/ |
+| 41 | https://dbl.oisd.nl/ |
+| 15 | https://block.energized.pro/spark/formats/domains.txt |
+| 17 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 27 | https://block.energized.pro/blu/formats/domains.txt |
+| 21 | https://block.energized.pro/basic/formats/domains.txt |
+| 24 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 11 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 17 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 28 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 17 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 25 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 10 | https://anti-ad.net/domains.txt |
+| 33 | https://blocklistproject.github.io/Lists/ads.txt |
+| 4 | https://blocklistproject.github.io/Lists/tracking.txt |
+| 52 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 11 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 68 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 2 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
+| 5 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
+| 5 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 7 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 23 | https://someonewhocares.org/hosts/hosts |
+| 5 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
+| 26 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 16 | https://winhelp2002.mvps.org/hosts.txt |
+| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 94 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
+| 1 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 3 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
+| 25 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
+| 4 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
+| 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 13 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
+
+
+### https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+| % included | URL  |
+|---|---|
+| 23 | https://o0.pages.dev/mini/domains.txt |
+| 24 | https://o0.pages.dev/Lite/domains.txt |
+| 40 | https://o0.pages.dev/Pro/domains.txt |
+| 20 | https://o0.pages.dev/Xtra/domains.txt |
+| 52 | https://dbl.oisd.nl/basic/ |
+| 47 | https://dbl.oisd.nl/ |
+| 52 | https://block.energized.pro/spark/formats/domains.txt |
+| 42 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 52 | https://block.energized.pro/blu/formats/domains.txt |
+| 45 | https://block.energized.pro/basic/formats/domains.txt |
+| 44 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 51 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 36 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 41 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 38 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 32 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 29 | https://anti-ad.net/domains.txt |
+| 11 | https://blocklistproject.github.io/Lists/ads.txt |
+| 2 | https://blocklistproject.github.io/Lists/tracking.txt |
+| 75 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 35 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 21 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 2 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
+| 2 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
+| 4 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 99 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 3 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 14 | https://someonewhocares.org/hosts/hosts |
+| 4 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
+| 21 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 8 | https://winhelp2002.mvps.org/hosts.txt |
+| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 91 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
+| 100 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 0 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
+| 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
+
+
+### https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
+| % included | URL  |
+|---|---|
+| 20 | https://o0.pages.dev/mini/domains.txt |
+| 22 | https://o0.pages.dev/Lite/domains.txt |
+| 17 | https://o0.pages.dev/Pro/domains.txt |
+| 27 | https://o0.pages.dev/Xtra/domains.txt |
+| 19 | https://dbl.oisd.nl/basic/ |
+| 3 | https://dbl.oisd.nl/ |
+| 16 | https://block.energized.pro/spark/formats/domains.txt |
+| 13 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 8 | https://block.energized.pro/blu/formats/domains.txt |
+| 12 | https://block.energized.pro/basic/formats/domains.txt |
+| 9 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 8 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 9 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 9 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 12 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 10 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 13 | https://anti-ad.net/domains.txt |
+| 10 | https://blocklistproject.github.io/Lists/ads.txt |
+| 9 | https://blocklistproject.github.io/Lists/tracking.txt |
+| 3 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 13 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 1 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 84 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
+| 19 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 17 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 10 | https://someonewhocares.org/hosts/hosts |
+| 68 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
+| 31 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 18 | https://winhelp2002.mvps.org/hosts.txt |
+| 17 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 2 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
+| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 63 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
+| 90 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
+| 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
+| 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
+| 75 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
+| 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
+| 43 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
+| 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
+| 81 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 80 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 52 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 72 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -1032,6 +1272,9 @@
 | 2 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 2 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 3 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 5 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
@@ -1051,8 +1294,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 89 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 6 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 9 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 6 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 11 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1080,6 +1324,9 @@
 | 5 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 1 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 4 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 52 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 34 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
@@ -1099,8 +1346,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 13 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 11 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 15 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 5 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 43 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 15 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 28 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1128,6 +1376,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 1 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
@@ -1147,8 +1398,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1176,6 +1428,9 @@
 | 2 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 2 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 29 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 3 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1195,8 +1450,9 @@
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 65 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 6 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 13 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 6 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 9 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1224,6 +1480,9 @@
 | 2 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 2 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 1 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 6 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1243,8 +1502,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 1 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 2 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1272,6 +1532,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 1 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1291,8 +1554,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 3 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1320,6 +1584,9 @@
 | 3 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 1 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 3 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 5 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 4 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1339,8 +1606,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 33 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 17 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1368,6 +1636,9 @@
 | 1 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 1 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 1 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 8 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1387,8 +1658,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 2 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 3 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 4 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1416,6 +1688,9 @@
 | 74 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 1 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 3 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 7 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1435,8 +1710,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 39 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 8 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 24 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1464,6 +1740,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 1 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1483,8 +1762,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1512,6 +1792,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 1 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1531,8 +1814,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1560,6 +1844,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1579,8 +1866,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1608,6 +1896,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1627,8 +1918,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1656,6 +1948,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1675,8 +1970,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1704,6 +2000,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1723,8 +2022,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1752,6 +2052,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1771,8 +2074,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1800,6 +2104,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1819,8 +2126,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1848,6 +2156,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1867,8 +2178,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1896,6 +2208,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1915,8 +2230,9 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1944,6 +2260,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -1963,8 +2282,113 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
+
+
+### https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+| % included | URL  |
+|---|---|
+| 0 | https://o0.pages.dev/mini/domains.txt |
+| 0 | https://o0.pages.dev/Lite/domains.txt |
+| 0 | https://o0.pages.dev/Pro/domains.txt |
+| 0 | https://o0.pages.dev/Xtra/domains.txt |
+| 0 | https://dbl.oisd.nl/basic/ |
+| 0 | https://dbl.oisd.nl/ |
+| 0 | https://block.energized.pro/spark/formats/domains.txt |
+| 0 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 0 | https://block.energized.pro/blu/formats/domains.txt |
+| 0 | https://block.energized.pro/basic/formats/domains.txt |
+| 0 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 0 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 0 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 0 | https://anti-ad.net/domains.txt |
+| 1 | https://blocklistproject.github.io/Lists/ads.txt |
+| 0 | https://blocklistproject.github.io/Lists/tracking.txt |
+| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
+| 1 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
+| 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 0 | https://someonewhocares.org/hosts/hosts |
+| 0 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
+| 0 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 0 | https://winhelp2002.mvps.org/hosts.txt |
+| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
+| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 0 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
+| 1 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
+
+
+### https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
+| % included | URL  |
+|---|---|
+| 0 | https://o0.pages.dev/mini/domains.txt |
+| 0 | https://o0.pages.dev/Lite/domains.txt |
+| 0 | https://o0.pages.dev/Pro/domains.txt |
+| 0 | https://o0.pages.dev/Xtra/domains.txt |
+| 0 | https://dbl.oisd.nl/basic/ |
+| 0 | https://dbl.oisd.nl/ |
+| 0 | https://block.energized.pro/spark/formats/domains.txt |
+| 0 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 0 | https://block.energized.pro/blu/formats/domains.txt |
+| 0 | https://block.energized.pro/basic/formats/domains.txt |
+| 0 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 0 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 0 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 0 | https://anti-ad.net/domains.txt |
+| 0 | https://blocklistproject.github.io/Lists/ads.txt |
+| 0 | https://blocklistproject.github.io/Lists/tracking.txt |
+| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
+| 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
+| 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 0 | https://someonewhocares.org/hosts/hosts |
+| 1 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
+| 0 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 0 | https://winhelp2002.mvps.org/hosts.txt |
+| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
+| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 0 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
+| 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
@@ -1992,6 +2416,9 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 1 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 14 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -2013,55 +2440,8 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 9 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 20 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
-
-
-### https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
-| % included | URL  |
-|---|---|
-| 0 | https://o0.pages.dev/mini/domains.txt |
-| 0 | https://o0.pages.dev/Lite/domains.txt |
-| 0 | https://o0.pages.dev/Pro/domains.txt |
-| 0 | https://o0.pages.dev/Xtra/domains.txt |
-| 0 | https://dbl.oisd.nl/basic/ |
-| 0 | https://dbl.oisd.nl/ |
-| 0 | https://block.energized.pro/spark/formats/domains.txt |
-| 0 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 0 | https://block.energized.pro/blu/formats/domains.txt |
-| 0 | https://block.energized.pro/basic/formats/domains.txt |
-| 0 | https://block.energized.pro/ultimate/formats/domains.txt |
-| 0 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 0 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 0 | https://anti-ad.net/domains.txt |
-| 1 | https://blocklistproject.github.io/Lists/ads.txt |
-| 0 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 0 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
-| 1 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
-| 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
-| 0 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
-| 0 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
-| 0 | https://winhelp2002.mvps.org/hosts.txt |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
-| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt
@@ -2088,6 +2468,9 @@
 | 1 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 1 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 0 | https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt |
+| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 22 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 3 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -2108,5 +2491,6 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 11 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 18 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 25 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 23 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
+| 18 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
