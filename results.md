@@ -3,21 +3,21 @@
 ### https://o0.pages.dev/mini/domains.txt
 | % included | URL  |
 |---|---|
-| 90 | https://o0.pages.dev/Lite/domains.txt |
-| 41 | https://o0.pages.dev/Pro/domains.txt |
+| 91 | https://o0.pages.dev/Lite/domains.txt |
+| 40 | https://o0.pages.dev/Pro/domains.txt |
 | 19 | https://o0.pages.dev/Xtra/domains.txt |
-| 49 | https://dbl.oisd.nl/basic/ |
+| 58 | https://dbl.oisd.nl/basic/ |
 | 9 | https://dbl.oisd.nl/ |
 | 42 | https://block.energized.pro/spark/formats/domains.txt |
 | 44 | https://block.energized.pro/bluGo/formats/domains.txt |
 | 27 | https://block.energized.pro/blu/formats/domains.txt |
-| 21 | https://block.energized.pro/basic/formats/domains.txt |
+| 22 | https://block.energized.pro/basic/formats/domains.txt |
 | 15 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 47 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 30 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 27 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 24 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 43 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 36 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 37 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 47 | https://anti-ad.net/domains.txt |
 | 22 | https://blocklistproject.github.io/Lists/ads.txt |
 | 7 | https://blocklistproject.github.io/Lists/tracking.txt |
@@ -45,6 +45,7 @@
 | 33 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 18 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://o0.pages.dev/Lite/domains.txt
@@ -53,7 +54,7 @@
 | 100 | https://o0.pages.dev/mini/domains.txt |
 | 45 | https://o0.pages.dev/Pro/domains.txt |
 | 21 | https://o0.pages.dev/Xtra/domains.txt |
-| 51 | https://dbl.oisd.nl/basic/ |
+| 60 | https://dbl.oisd.nl/basic/ |
 | 10 | https://dbl.oisd.nl/ |
 | 45 | https://block.energized.pro/spark/formats/domains.txt |
 | 46 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -62,10 +63,10 @@
 | 18 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 49 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 32 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 29 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 26 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 45 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 38 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 50 | https://anti-ad.net/domains.txt |
+| 49 | https://anti-ad.net/domains.txt |
 | 24 | https://blocklistproject.github.io/Lists/ads.txt |
 | 9 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 11 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
@@ -92,6 +93,7 @@
 | 67 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 20 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 11 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 32 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://o0.pages.dev/Pro/domains.txt
@@ -100,23 +102,23 @@
 | 100 | https://o0.pages.dev/mini/domains.txt |
 | 100 | https://o0.pages.dev/Lite/domains.txt |
 | 47 | https://o0.pages.dev/Xtra/domains.txt |
-| 54 | https://dbl.oisd.nl/basic/ |
+| 62 | https://dbl.oisd.nl/basic/ |
 | 16 | https://dbl.oisd.nl/ |
 | 51 | https://block.energized.pro/spark/formats/domains.txt |
 | 52 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 39 | https://block.energized.pro/blu/formats/domains.txt |
-| 56 | https://block.energized.pro/basic/formats/domains.txt |
+| 40 | https://block.energized.pro/blu/formats/domains.txt |
+| 57 | https://block.energized.pro/basic/formats/domains.txt |
 | 39 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 50 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 42 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 46 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 43 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 49 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 41 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 53 | https://anti-ad.net/domains.txt |
 | 27 | https://blocklistproject.github.io/Lists/ads.txt |
 | 12 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 16 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 49 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 17 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 50 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 95 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 22 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 15 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -139,6 +141,7 @@
 | 78 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 27 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 28 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 41 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://o0.pages.dev/Xtra/domains.txt
@@ -147,23 +150,23 @@
 | 100 | https://o0.pages.dev/mini/domains.txt |
 | 100 | https://o0.pages.dev/Lite/domains.txt |
 | 100 | https://o0.pages.dev/Pro/domains.txt |
-| 54 | https://dbl.oisd.nl/basic/ |
+| 62 | https://dbl.oisd.nl/basic/ |
 | 16 | https://dbl.oisd.nl/ |
 | 51 | https://block.energized.pro/spark/formats/domains.txt |
 | 52 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 39 | https://block.energized.pro/blu/formats/domains.txt |
-| 56 | https://block.energized.pro/basic/formats/domains.txt |
+| 40 | https://block.energized.pro/blu/formats/domains.txt |
+| 57 | https://block.energized.pro/basic/formats/domains.txt |
 | 39 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 50 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 42 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 46 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 43 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 49 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 41 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 53 | https://anti-ad.net/domains.txt |
 | 27 | https://blocklistproject.github.io/Lists/ads.txt |
 | 12 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 16 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 49 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 17 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 50 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 95 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 22 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 15 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -186,81 +189,83 @@
 | 78 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 35 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 29 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 47 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://dbl.oisd.nl/basic/
 | % included | URL  |
 |---|---|
-| 54 | https://o0.pages.dev/mini/domains.txt |
-| 51 | https://o0.pages.dev/Lite/domains.txt |
-| 25 | https://o0.pages.dev/Pro/domains.txt |
-| 12 | https://o0.pages.dev/Xtra/domains.txt |
-| 13 | https://dbl.oisd.nl/ |
-| 52 | https://block.energized.pro/spark/formats/domains.txt |
-| 48 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 30 | https://block.energized.pro/blu/formats/domains.txt |
-| 20 | https://block.energized.pro/basic/formats/domains.txt |
-| 14 | https://block.energized.pro/ultimate/formats/domains.txt |
-| 65 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 32 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 28 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 58 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 49 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 57 | https://anti-ad.net/domains.txt |
-| 32 | https://blocklistproject.github.io/Lists/ads.txt |
-| 9 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 14 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 83 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 34 | https://o0.pages.dev/mini/domains.txt |
+| 32 | https://o0.pages.dev/Lite/domains.txt |
+| 15 | https://o0.pages.dev/Pro/domains.txt |
+| 7 | https://o0.pages.dev/Xtra/domains.txt |
+| 7 | https://dbl.oisd.nl/ |
+| 37 | https://block.energized.pro/spark/formats/domains.txt |
+| 28 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 17 | https://block.energized.pro/blu/formats/domains.txt |
+| 11 | https://block.energized.pro/basic/formats/domains.txt |
+| 8 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 46 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 17 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 14 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 37 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 27 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 35 | https://anti-ad.net/domains.txt |
+| 17 | https://blocklistproject.github.io/Lists/ads.txt |
+| 5 | https://blocklistproject.github.io/Lists/tracking.txt |
+| 8 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 45 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 89 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
-| 13 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 16 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 12 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 80 | https://someonewhocares.org/hosts/hosts |
-| 61 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
-| 78 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 8 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 8 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 15 | https://someonewhocares.org/hosts/hosts |
+| 44 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
+| 39 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 83 | https://winhelp2002.mvps.org/hosts.txt |
-| 10 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 7 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 46 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 49 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 29 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 6 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 33 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
-| 40 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
-| 25 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
-| 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
-| 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
-| 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
+| 30 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-| 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 7 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 6 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 13 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://dbl.oisd.nl/
 | % included | URL  |
 |---|---|
 | 81 | https://o0.pages.dev/mini/domains.txt |
-| 81 | https://o0.pages.dev/Lite/domains.txt |
+| 82 | https://o0.pages.dev/Lite/domains.txt |
 | 59 | https://o0.pages.dev/Pro/domains.txt |
 | 28 | https://o0.pages.dev/Xtra/domains.txt |
 | 100 | https://dbl.oisd.nl/basic/ |
-| 71 | https://block.energized.pro/spark/formats/domains.txt |
+| 70 | https://block.energized.pro/spark/formats/domains.txt |
 | 72 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 77 | https://block.energized.pro/blu/formats/domains.txt |
-| 61 | https://block.energized.pro/basic/formats/domains.txt |
+| 78 | https://block.energized.pro/blu/formats/domains.txt |
+| 62 | https://block.energized.pro/basic/formats/domains.txt |
 | 53 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 81 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 63 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 73 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 78 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 76 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 71 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 76 | https://anti-ad.net/domains.txt |
 | 49 | https://blocklistproject.github.io/Lists/ads.txt |
 | 11 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 72 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 73 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 83 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 90 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 16 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 40 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 41 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 42 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 86 | https://someonewhocares.org/hosts/hosts |
 | 78 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
@@ -268,7 +273,7 @@
 | 90 | https://winhelp2002.mvps.org/hosts.txt |
 | 18 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 46 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 91 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 92 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 49 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 33 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
@@ -280,16 +285,17 @@
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 22 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 31 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://block.energized.pro/spark/formats/domains.txt
 | % included | URL  |
 |---|---|
 | 42 | https://o0.pages.dev/mini/domains.txt |
-| 40 | https://o0.pages.dev/Lite/domains.txt |
+| 41 | https://o0.pages.dev/Lite/domains.txt |
 | 22 | https://o0.pages.dev/Pro/domains.txt |
 | 10 | https://o0.pages.dev/Xtra/domains.txt |
-| 50 | https://dbl.oisd.nl/basic/ |
+| 66 | https://dbl.oisd.nl/basic/ |
 | 8 | https://dbl.oisd.nl/ |
 | 64 | https://block.energized.pro/bluGo/formats/domains.txt |
 | 36 | https://block.energized.pro/blu/formats/domains.txt |
@@ -297,7 +303,7 @@
 | 17 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 58 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 33 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 16 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 14 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 35 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 29 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 38 | https://anti-ad.net/domains.txt |
@@ -327,24 +333,25 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 17 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://block.energized.pro/bluGo/formats/domains.txt
 | % included | URL  |
 |---|---|
 | 69 | https://o0.pages.dev/mini/domains.txt |
-| 66 | https://o0.pages.dev/Lite/domains.txt |
+| 67 | https://o0.pages.dev/Lite/domains.txt |
 | 34 | https://o0.pages.dev/Pro/domains.txt |
 | 16 | https://o0.pages.dev/Xtra/domains.txt |
-| 72 | https://dbl.oisd.nl/basic/ |
+| 80 | https://dbl.oisd.nl/basic/ |
 | 13 | https://dbl.oisd.nl/ |
 | 100 | https://block.energized.pro/spark/formats/domains.txt |
-| 55 | https://block.energized.pro/blu/formats/domains.txt |
-| 37 | https://block.energized.pro/basic/formats/domains.txt |
+| 57 | https://block.energized.pro/blu/formats/domains.txt |
+| 38 | https://block.energized.pro/basic/formats/domains.txt |
 | 26 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 80 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 52 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 34 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 30 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 63 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 52 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 66 | https://anti-ad.net/domains.txt |
@@ -374,40 +381,41 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 19 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://block.energized.pro/blu/formats/domains.txt
 | % included | URL  |
 |---|---|
-| 75 | https://o0.pages.dev/mini/domains.txt |
-| 73 | https://o0.pages.dev/Lite/domains.txt |
+| 73 | https://o0.pages.dev/mini/domains.txt |
+| 72 | https://o0.pages.dev/Lite/domains.txt |
 | 47 | https://o0.pages.dev/Pro/domains.txt |
 | 22 | https://o0.pages.dev/Xtra/domains.txt |
-| 79 | https://dbl.oisd.nl/basic/ |
-| 26 | https://dbl.oisd.nl/ |
+| 85 | https://dbl.oisd.nl/basic/ |
+| 25 | https://dbl.oisd.nl/ |
 | 100 | https://block.energized.pro/spark/formats/domains.txt |
 | 100 | https://block.energized.pro/bluGo/formats/domains.txt |
 | 66 | https://block.energized.pro/basic/formats/domains.txt |
 | 46 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 83 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 72 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 82 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 71 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 79 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 67 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 60 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 68 | https://anti-ad.net/domains.txt |
-| 30 | https://blocklistproject.github.io/Lists/ads.txt |
+| 67 | https://anti-ad.net/domains.txt |
+| 29 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 38 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 73 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 85 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
-| 14 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 32 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 14 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 13 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 28 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 13 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 54 | https://someonewhocares.org/hosts/hosts |
 | 80 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
 | 79 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 67 | https://winhelp2002.mvps.org/hosts.txt |
-| 17 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 16 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 18 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
 | 99 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 66 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
@@ -419,8 +427,9 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
 | 17 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
-| 13 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 12 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 20 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://block.energized.pro/basic/formats/domains.txt
@@ -428,17 +437,17 @@
 |---|---|
 | 92 | https://o0.pages.dev/mini/domains.txt |
 | 92 | https://o0.pages.dev/Lite/domains.txt |
-| 94 | https://o0.pages.dev/Pro/domains.txt |
+| 95 | https://o0.pages.dev/Pro/domains.txt |
 | 44 | https://o0.pages.dev/Xtra/domains.txt |
-| 79 | https://dbl.oisd.nl/basic/ |
-| 30 | https://dbl.oisd.nl/ |
+| 85 | https://dbl.oisd.nl/basic/ |
+| 29 | https://dbl.oisd.nl/ |
 | 100 | https://block.energized.pro/spark/formats/domains.txt |
 | 100 | https://block.energized.pro/bluGo/formats/domains.txt |
 | 100 | https://block.energized.pro/blu/formats/domains.txt |
-| 70 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 69 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 88 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 80 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 82 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 78 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 79 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 68 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 61 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 71 | https://anti-ad.net/domains.txt |
@@ -448,7 +457,7 @@
 | 73 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 85 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 20 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 33 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 30 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 50 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 54 | https://someonewhocares.org/hosts/hosts |
 | 85 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
@@ -468,6 +477,7 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 26 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 26 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 40 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://block.energized.pro/ultimate/formats/domains.txt
@@ -475,17 +485,17 @@
 |---|---|
 | 92 | https://o0.pages.dev/mini/domains.txt |
 | 92 | https://o0.pages.dev/Lite/domains.txt |
-| 94 | https://o0.pages.dev/Pro/domains.txt |
+| 95 | https://o0.pages.dev/Pro/domains.txt |
 | 44 | https://o0.pages.dev/Xtra/domains.txt |
-| 79 | https://dbl.oisd.nl/basic/ |
-| 37 | https://dbl.oisd.nl/ |
+| 85 | https://dbl.oisd.nl/basic/ |
+| 36 | https://dbl.oisd.nl/ |
 | 100 | https://block.energized.pro/spark/formats/domains.txt |
 | 100 | https://block.energized.pro/bluGo/formats/domains.txt |
 | 100 | https://block.energized.pro/blu/formats/domains.txt |
 | 100 | https://block.energized.pro/basic/formats/domains.txt |
-| 91 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 87 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 82 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 90 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 86 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 79 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 69 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 63 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 71 | https://anti-ad.net/domains.txt |
@@ -515,6 +525,7 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 26 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 26 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 40 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://block.energized.pro/extensions/regional/formats/domains.txt
@@ -524,16 +535,16 @@
 | 33 | https://o0.pages.dev/Lite/domains.txt |
 | 16 | https://o0.pages.dev/Pro/domains.txt |
 | 8 | https://o0.pages.dev/Xtra/domains.txt |
-| 43 | https://dbl.oisd.nl/basic/ |
+| 56 | https://dbl.oisd.nl/basic/ |
 | 7 | https://dbl.oisd.nl/ |
 | 41 | https://block.energized.pro/spark/formats/domains.txt |
 | 37 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 21 | https://block.energized.pro/blu/formats/domains.txt |
-| 15 | https://block.energized.pro/basic/formats/domains.txt |
+| 22 | https://block.energized.pro/blu/formats/domains.txt |
+| 16 | https://block.energized.pro/basic/formats/domains.txt |
 | 11 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 21 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
 | 5 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 33 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 34 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 29 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 40 | https://anti-ad.net/domains.txt |
 | 12 | https://blocklistproject.github.io/Lists/ads.txt |
@@ -562,26 +573,27 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 2 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 | % included | URL  |
 |---|---|
 | 93 | https://o0.pages.dev/mini/domains.txt |
-| 88 | https://o0.pages.dev/Lite/domains.txt |
+| 89 | https://o0.pages.dev/Lite/domains.txt |
 | 53 | https://o0.pages.dev/Pro/domains.txt |
 | 25 | https://o0.pages.dev/Xtra/domains.txt |
-| 88 | https://dbl.oisd.nl/basic/ |
+| 90 | https://dbl.oisd.nl/basic/ |
 | 21 | https://dbl.oisd.nl/ |
 | 97 | https://block.energized.pro/spark/formats/domains.txt |
 | 98 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 74 | https://block.energized.pro/blu/formats/domains.txt |
+| 75 | https://block.energized.pro/blu/formats/domains.txt |
 | 56 | https://block.energized.pro/basic/formats/domains.txt |
-| 42 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 43 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 83 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 72 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 76 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 71 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 67 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 75 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 70 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 80 | https://anti-ad.net/domains.txt |
 | 44 | https://blocklistproject.github.io/Lists/ads.txt |
 | 68 | https://blocklistproject.github.io/Lists/tracking.txt |
@@ -597,7 +609,7 @@
 | 68 | https://winhelp2002.mvps.org/hosts.txt |
 | 89 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 32 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 43 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 40 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 63 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
@@ -609,6 +621,7 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 14 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 21 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 24 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -616,27 +629,27 @@
 |---|---|
 | 32 | https://o0.pages.dev/mini/domains.txt |
 | 30 | https://o0.pages.dev/Lite/domains.txt |
-| 23 | https://o0.pages.dev/Pro/domains.txt |
+| 24 | https://o0.pages.dev/Pro/domains.txt |
 | 11 | https://o0.pages.dev/Xtra/domains.txt |
-| 32 | https://dbl.oisd.nl/basic/ |
-| 10 | https://dbl.oisd.nl/ |
+| 38 | https://dbl.oisd.nl/basic/ |
+| 12 | https://dbl.oisd.nl/ |
 | 19 | https://block.energized.pro/spark/formats/domains.txt |
 | 25 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 34 | https://block.energized.pro/blu/formats/domains.txt |
-| 22 | https://block.energized.pro/basic/formats/domains.txt |
-| 16 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 38 | https://block.energized.pro/blu/formats/domains.txt |
+| 25 | https://block.energized.pro/basic/formats/domains.txt |
+| 17 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 8 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 29 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 32 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 27 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 30 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 33 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 28 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 17 | https://anti-ad.net/domains.txt |
 | 17 | https://blocklistproject.github.io/Lists/ads.txt |
 | 6 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 17 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 21 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 9 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 100 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 9 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 18 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 16 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 10 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 100 | https://someonewhocares.org/hosts/hosts |
 | 59 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
@@ -644,7 +657,7 @@
 | 100 | https://winhelp2002.mvps.org/hosts.txt |
 | 12 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 3 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 66 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 51 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 43 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
 | 50 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
@@ -656,42 +669,43 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 16 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts
 | % included | URL  |
 |---|---|
-| 55 | https://o0.pages.dev/mini/domains.txt |
+| 54 | https://o0.pages.dev/mini/domains.txt |
 | 52 | https://o0.pages.dev/Lite/domains.txt |
 | 26 | https://o0.pages.dev/Pro/domains.txt |
 | 12 | https://o0.pages.dev/Xtra/domains.txt |
-| 68 | https://dbl.oisd.nl/basic/ |
+| 83 | https://dbl.oisd.nl/basic/ |
 | 11 | https://dbl.oisd.nl/ |
-| 45 | https://block.energized.pro/spark/formats/domains.txt |
-| 51 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 44 | https://block.energized.pro/spark/formats/domains.txt |
+| 50 | https://block.energized.pro/bluGo/formats/domains.txt |
 | 30 | https://block.energized.pro/blu/formats/domains.txt |
 | 20 | https://block.energized.pro/basic/formats/domains.txt |
 | 14 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 57 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 33 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 36 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 67 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 70 | https://anti-ad.net/domains.txt |
-| 23 | https://blocklistproject.github.io/Lists/ads.txt |
+| 32 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 32 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 66 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 71 | https://anti-ad.net/domains.txt |
+| 22 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 16 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 68 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 99 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 20 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 19 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 11 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 42 | https://someonewhocares.org/hosts/hosts |
 | 83 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
 | 100 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 100 | https://winhelp2002.mvps.org/hosts.txt |
-| 14 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 13 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 30 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 55 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 96 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 100 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
 | 90 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
@@ -703,34 +717,35 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 10 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 17 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 | % included | URL  |
 |---|---|
 | 68 | https://o0.pages.dev/mini/domains.txt |
-| 66 | https://o0.pages.dev/Lite/domains.txt |
+| 67 | https://o0.pages.dev/Lite/domains.txt |
 | 33 | https://o0.pages.dev/Pro/domains.txt |
 | 16 | https://o0.pages.dev/Xtra/domains.txt |
-| 86 | https://dbl.oisd.nl/basic/ |
+| 93 | https://dbl.oisd.nl/basic/ |
 | 16 | https://dbl.oisd.nl/ |
-| 55 | https://block.energized.pro/spark/formats/domains.txt |
+| 54 | https://block.energized.pro/spark/formats/domains.txt |
 | 62 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 40 | https://block.energized.pro/blu/formats/domains.txt |
-| 27 | https://block.energized.pro/basic/formats/domains.txt |
+| 41 | https://block.energized.pro/blu/formats/domains.txt |
+| 28 | https://block.energized.pro/basic/formats/domains.txt |
 | 20 | https://block.energized.pro/ultimate/formats/domains.txt |
-| 73 | https://block.energized.pro/extensions/regional/formats/domains.txt |
-| 46 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 47 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 74 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 45 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 42 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 100 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 79 | https://anti-ad.net/domains.txt |
+| 80 | https://anti-ad.net/domains.txt |
 | 37 | https://blocklistproject.github.io/Lists/ads.txt |
 | 11 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 21 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 99 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 100 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 99 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
-| 16 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 20 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 15 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 19 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 12 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 44 | https://someonewhocares.org/hosts/hosts |
 | 87 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
@@ -738,7 +753,7 @@
 | 100 | https://winhelp2002.mvps.org/hosts.txt |
 | 18 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 36 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 55 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 96 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 100 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
 | 90 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
@@ -750,27 +765,28 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 13 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 18 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://anti-ad.net/domains.txt
 | % included | URL  |
 |---|---|
 | 49 | https://o0.pages.dev/mini/domains.txt |
-| 49 | https://o0.pages.dev/Lite/domains.txt |
+| 50 | https://o0.pages.dev/Lite/domains.txt |
 | 25 | https://o0.pages.dev/Pro/domains.txt |
 | 12 | https://o0.pages.dev/Xtra/domains.txt |
-| 55 | https://dbl.oisd.nl/basic/ |
+| 61 | https://dbl.oisd.nl/basic/ |
 | 9 | https://dbl.oisd.nl/ |
 | 39 | https://block.energized.pro/spark/formats/domains.txt |
 | 45 | https://block.energized.pro/bluGo/formats/domains.txt |
 | 26 | https://block.energized.pro/blu/formats/domains.txt |
-| 18 | https://block.energized.pro/basic/formats/domains.txt |
+| 19 | https://block.energized.pro/basic/formats/domains.txt |
 | 13 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 57 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 30 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 16 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 59 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 45 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 15 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 60 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 46 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 17 | https://blocklistproject.github.io/Lists/ads.txt |
 | 9 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 13 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
@@ -797,16 +813,17 @@
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 7 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://blocklistproject.github.io/Lists/ads.txt
 | % included | URL  |
 |---|---|
 | 37 | https://o0.pages.dev/mini/domains.txt |
-| 33 | https://o0.pages.dev/Lite/domains.txt |
+| 34 | https://o0.pages.dev/Lite/domains.txt |
 | 16 | https://o0.pages.dev/Pro/domains.txt |
 | 8 | https://o0.pages.dev/Xtra/domains.txt |
-| 45 | https://dbl.oisd.nl/basic/ |
+| 48 | https://dbl.oisd.nl/basic/ |
 | 9 | https://dbl.oisd.nl/ |
 | 31 | https://block.energized.pro/spark/formats/domains.txt |
 | 26 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -815,7 +832,7 @@
 | 9 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 21 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 21 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 23 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 21 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 27 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 28 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 23 | https://anti-ad.net/domains.txt |
@@ -844,6 +861,7 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 11 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 21 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 18 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://blocklistproject.github.io/Lists/tracking.txt
@@ -853,7 +871,7 @@
 | 2 | https://o0.pages.dev/Lite/domains.txt |
 | 2 | https://o0.pages.dev/Pro/domains.txt |
 | 1 | https://o0.pages.dev/Xtra/domains.txt |
-| 2 | https://dbl.oisd.nl/basic/ |
+| 3 | https://dbl.oisd.nl/basic/ |
 | 0 | https://dbl.oisd.nl/ |
 | 2 | https://block.energized.pro/spark/formats/domains.txt |
 | 1 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -891,6 +909,7 @@
 | 11 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 6 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
@@ -900,18 +919,18 @@
 | 53 | https://o0.pages.dev/Lite/domains.txt |
 | 38 | https://o0.pages.dev/Pro/domains.txt |
 | 18 | https://o0.pages.dev/Xtra/domains.txt |
-| 68 | https://dbl.oisd.nl/basic/ |
+| 74 | https://dbl.oisd.nl/basic/ |
 | 45 | https://dbl.oisd.nl/ |
 | 52 | https://block.energized.pro/spark/formats/domains.txt |
 | 57 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 69 | https://block.energized.pro/blu/formats/domains.txt |
-| 49 | https://block.energized.pro/basic/formats/domains.txt |
-| 44 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 72 | https://block.energized.pro/blu/formats/domains.txt |
+| 50 | https://block.energized.pro/basic/formats/domains.txt |
+| 45 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 72 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 53 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 75 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 69 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 59 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 83 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 71 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 61 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 64 | https://anti-ad.net/domains.txt |
 | 24 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
@@ -926,7 +945,7 @@
 | 43 | https://winhelp2002.mvps.org/hosts.txt |
 | 16 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 53 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 13 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 12 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 80 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 33 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
 | 40 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
@@ -938,27 +957,28 @@
 | 89 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 8 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 6 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 | % included | URL  |
 |---|---|
-| 39 | https://o0.pages.dev/mini/domains.txt |
-| 40 | https://o0.pages.dev/Lite/domains.txt |
+| 40 | https://o0.pages.dev/mini/domains.txt |
+| 41 | https://o0.pages.dev/Lite/domains.txt |
 | 19 | https://o0.pages.dev/Pro/domains.txt |
 | 9 | https://o0.pages.dev/Xtra/domains.txt |
-| 67 | https://dbl.oisd.nl/basic/ |
+| 66 | https://dbl.oisd.nl/basic/ |
 | 9 | https://dbl.oisd.nl/ |
 | 42 | https://block.energized.pro/spark/formats/domains.txt |
 | 40 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 22 | https://block.energized.pro/blu/formats/domains.txt |
+| 23 | https://block.energized.pro/blu/formats/domains.txt |
 | 15 | https://block.energized.pro/basic/formats/domains.txt |
 | 11 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 67 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 30 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 7 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 6 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 48 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 47 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 48 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 61 | https://anti-ad.net/domains.txt |
 | 25 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
@@ -985,16 +1005,17 @@
 | 67 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 5 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 5 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 | % included | URL  |
 |---|---|
 | 6 | https://o0.pages.dev/mini/domains.txt |
-| 4 | https://o0.pages.dev/Lite/domains.txt |
+| 5 | https://o0.pages.dev/Lite/domains.txt |
 | 2 | https://o0.pages.dev/Pro/domains.txt |
 | 1 | https://o0.pages.dev/Xtra/domains.txt |
-| 5 | https://dbl.oisd.nl/basic/ |
+| 11 | https://dbl.oisd.nl/basic/ |
 | 1 | https://dbl.oisd.nl/ |
 | 6 | https://block.energized.pro/spark/formats/domains.txt |
 | 4 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -1003,7 +1024,7 @@
 | 1 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 1 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 1 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 5 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 4 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 4 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 3 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 1 | https://anti-ad.net/domains.txt |
@@ -1032,6 +1053,7 @@
 | 89 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 6 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 11 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -1041,7 +1063,7 @@
 | 8 | https://o0.pages.dev/Lite/domains.txt |
 | 4 | https://o0.pages.dev/Pro/domains.txt |
 | 2 | https://o0.pages.dev/Xtra/domains.txt |
-| 8 | https://dbl.oisd.nl/basic/ |
+| 11 | https://dbl.oisd.nl/basic/ |
 | 2 | https://dbl.oisd.nl/ |
 | 8 | https://block.energized.pro/spark/formats/domains.txt |
 | 6 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -1079,6 +1101,7 @@
 | 11 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 15 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 5 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 28 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
@@ -1088,11 +1111,11 @@
 | 0 | https://o0.pages.dev/Lite/domains.txt |
 | 1 | https://o0.pages.dev/Pro/domains.txt |
 | 0 | https://o0.pages.dev/Xtra/domains.txt |
-| 2 | https://dbl.oisd.nl/basic/ |
+| 0 | https://dbl.oisd.nl/basic/ |
 | 1 | https://dbl.oisd.nl/ |
 | 2 | https://block.energized.pro/spark/formats/domains.txt |
 | 1 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 2 | https://block.energized.pro/blu/formats/domains.txt |
+| 1 | https://block.energized.pro/blu/formats/domains.txt |
 | 1 | https://block.energized.pro/basic/formats/domains.txt |
 | 1 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 0 | https://block.energized.pro/extensions/regional/formats/domains.txt |
@@ -1114,7 +1137,7 @@
 | 0 | https://winhelp2002.mvps.org/hosts.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 84 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 80 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
@@ -1126,6 +1149,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
@@ -1135,11 +1159,11 @@
 | 7 | https://o0.pages.dev/Lite/domains.txt |
 | 3 | https://o0.pages.dev/Pro/domains.txt |
 | 1 | https://o0.pages.dev/Xtra/domains.txt |
-| 4 | https://dbl.oisd.nl/basic/ |
+| 5 | https://dbl.oisd.nl/basic/ |
 | 1 | https://dbl.oisd.nl/ |
 | 4 | https://block.energized.pro/spark/formats/domains.txt |
 | 3 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 2 | https://block.energized.pro/blu/formats/domains.txt |
+| 1 | https://block.energized.pro/blu/formats/domains.txt |
 | 3 | https://block.energized.pro/basic/formats/domains.txt |
 | 2 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 1 | https://block.energized.pro/extensions/regional/formats/domains.txt |
@@ -1173,6 +1197,7 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 6 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 9 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://someonewhocares.org/hosts/hosts
@@ -1182,16 +1207,16 @@
 | 4 | https://o0.pages.dev/Lite/domains.txt |
 | 2 | https://o0.pages.dev/Pro/domains.txt |
 | 1 | https://o0.pages.dev/Xtra/domains.txt |
-| 10 | https://dbl.oisd.nl/basic/ |
+| 4 | https://dbl.oisd.nl/basic/ |
 | 1 | https://dbl.oisd.nl/ |
 | 7 | https://block.energized.pro/spark/formats/domains.txt |
 | 5 | https://block.energized.pro/bluGo/formats/domains.txt |
-| 2 | https://block.energized.pro/blu/formats/domains.txt |
+| 3 | https://block.energized.pro/blu/formats/domains.txt |
 | 2 | https://block.energized.pro/basic/formats/domains.txt |
 | 1 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 1 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 2 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 11 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 10 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 4 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 3 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 1 | https://anti-ad.net/domains.txt |
@@ -1220,6 +1245,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 2 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
@@ -1267,16 +1293,17 @@
 | 100 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext
 | % included | URL  |
 |---|---|
 | 4 | https://o0.pages.dev/mini/domains.txt |
-| 4 | https://o0.pages.dev/Lite/domains.txt |
+| 5 | https://o0.pages.dev/Lite/domains.txt |
 | 2 | https://o0.pages.dev/Pro/domains.txt |
 | 1 | https://o0.pages.dev/Xtra/domains.txt |
-| 5 | https://dbl.oisd.nl/basic/ |
+| 4 | https://dbl.oisd.nl/basic/ |
 | 1 | https://dbl.oisd.nl/ |
 | 4 | https://block.energized.pro/spark/formats/domains.txt |
 | 3 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -1285,8 +1312,8 @@
 | 1 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 2 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 2 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 6 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 5 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 5 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 6 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 4 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 3 | https://anti-ad.net/domains.txt |
 | 4 | https://blocklistproject.github.io/Lists/ads.txt |
@@ -1314,6 +1341,7 @@
 | 33 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://winhelp2002.mvps.org/hosts.txt
@@ -1323,7 +1351,7 @@
 | 3 | https://o0.pages.dev/Lite/domains.txt |
 | 1 | https://o0.pages.dev/Pro/domains.txt |
 | 1 | https://o0.pages.dev/Xtra/domains.txt |
-| 7 | https://dbl.oisd.nl/basic/ |
+| 15 | https://dbl.oisd.nl/basic/ |
 | 1 | https://dbl.oisd.nl/ |
 | 2 | https://block.energized.pro/spark/formats/domains.txt |
 | 3 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -1332,7 +1360,7 @@
 | 1 | https://block.energized.pro/ultimate/formats/domains.txt |
 | 1 | https://block.energized.pro/extensions/regional/formats/domains.txt |
 | 1 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 7 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 6 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 6 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 3 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 1 | https://anti-ad.net/domains.txt |
@@ -1361,6 +1389,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 2 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 4 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -1408,6 +1437,7 @@
 | 56 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 8 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
@@ -1417,7 +1447,7 @@
 | 0 | https://o0.pages.dev/Lite/domains.txt |
 | 0 | https://o0.pages.dev/Pro/domains.txt |
 | 0 | https://o0.pages.dev/Xtra/domains.txt |
-| 1 | https://dbl.oisd.nl/basic/ |
+| 2 | https://dbl.oisd.nl/basic/ |
 | 0 | https://dbl.oisd.nl/ |
 | 0 | https://block.energized.pro/spark/formats/domains.txt |
 | 0 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -1455,6 +1485,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
@@ -1502,6 +1533,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
@@ -1549,6 +1581,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa
@@ -1596,6 +1629,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
@@ -1643,6 +1677,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
@@ -1690,6 +1725,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku
@@ -1737,6 +1773,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
@@ -1784,6 +1821,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos
@@ -1831,6 +1869,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
@@ -1878,6 +1917,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
@@ -1925,6 +1965,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 0 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
@@ -1934,7 +1975,7 @@
 | 1 | https://o0.pages.dev/Lite/domains.txt |
 | 1 | https://o0.pages.dev/Pro/domains.txt |
 | 0 | https://o0.pages.dev/Xtra/domains.txt |
-| 1 | https://dbl.oisd.nl/basic/ |
+| 2 | https://dbl.oisd.nl/basic/ |
 | 0 | https://dbl.oisd.nl/ |
 | 1 | https://block.energized.pro/spark/formats/domains.txt |
 | 1 | https://block.energized.pro/bluGo/formats/domains.txt |
@@ -1972,6 +2013,7 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
+| 20 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
 
 
 ### https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -2019,3 +2061,52 @@
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
 | 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
 | 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 1 | https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt |
+
+
+### https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt
+| % included | URL  |
+|---|---|
+| 3 | https://o0.pages.dev/mini/domains.txt |
+| 2 | https://o0.pages.dev/Lite/domains.txt |
+| 1 | https://o0.pages.dev/Pro/domains.txt |
+| 1 | https://o0.pages.dev/Xtra/domains.txt |
+| 3 | https://dbl.oisd.nl/basic/ |
+| 0 | https://dbl.oisd.nl/ |
+| 2 | https://block.energized.pro/spark/formats/domains.txt |
+| 2 | https://block.energized.pro/bluGo/formats/domains.txt |
+| 1 | https://block.energized.pro/blu/formats/domains.txt |
+| 1 | https://block.energized.pro/basic/formats/domains.txt |
+| 1 | https://block.energized.pro/ultimate/formats/domains.txt |
+| 1 | https://block.energized.pro/extensions/regional/formats/domains.txt |
+| 1 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 1 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 1 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+| 1 | https://anti-ad.net/domains.txt |
+| 1 | https://blocklistproject.github.io/Lists/ads.txt |
+| 1 | https://blocklistproject.github.io/Lists/tracking.txt |
+| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
+| 1 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 22 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
+| 3 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
+| 0 | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 3 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 3 | https://someonewhocares.org/hosts/hosts |
+| 15 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
+| 5 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 8 | https://winhelp2002.mvps.org/hosts.txt |
+| 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
+| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 3 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos |
+| 0 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows |
+| 11 | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi |
+| 18 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 25 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
