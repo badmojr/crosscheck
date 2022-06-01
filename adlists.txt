@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/Mi
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://anti-ad.net/domains.txt
 https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt
+https://github.com/T145/black-mirror/releases/download/latest/black_domain.txt
 https://blocklistproject.github.io/Lists/ads.txt
 https://blocklistproject.github.io/Lists/tracking.txt
 https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
@@ -25,7 +26,6 @@ https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://someonewhocares.org/hosts/hosts
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
