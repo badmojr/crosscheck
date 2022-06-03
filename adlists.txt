@@ -16,7 +16,6 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/Mi
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://anti-ad.net/domains.txt
 https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt
-https://github.com/T145/black-mirror/releases/download/latest/black_domain.txt
 https://blocklistproject.github.io/Lists/ads.txt
 https://blocklistproject.github.io/Lists/tracking.txt
 https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
