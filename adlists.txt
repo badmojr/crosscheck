@@ -17,11 +17,11 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ne
 https://anti-ad.net/domains.txt
 https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt
 https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt
-https://blocklistproject.github.io/Lists/ads.txt
-https://blocklistproject.github.io/Lists/tracking.txt
+https://abl.arapurayil.com/filters/main.txt
 https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-https://github.com/AmmoniteFilter/TrilobiteFilter/raw/main/filter.txt
+https://blocklistproject.github.io/Lists/ads.txt
+https://blocklistproject.github.io/Lists/tracking.txt
 https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
