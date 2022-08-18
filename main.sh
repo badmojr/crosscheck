@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ $(dpkg-query -W -f='${Status}' parallel 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt-get install parallel;
+fi
+
 parse="
 y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
 s/[[:space:]]\+/ /g; s/^[[:space:]]\+//; s/[[:space:]]\+$//;
