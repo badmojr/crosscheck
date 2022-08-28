@@ -1,10 +1,5 @@
 #!/bin/bash
 
-if [ $(dpkg-query -W -f='${Status}' parallel 2>/dev/null | grep -c "ok installed") -eq 0 ];
-then
-  sudo apt-get install parallel;
-fi
-
 parse="
 y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
 s/[[:space:]]\+/ /g; s/^[[:space:]]\+//; s/[[:space:]]\+$//;
@@ -37,6 +32,11 @@ unset sources userAGs UAs rND UA index id IDs fileLoc scs Loc idURL file matchID
 userAGs=$(curl -fsSL https://assets.staticnetcontent.com/extension/useragents.txt |sed "s/^/\'/; s/$/\'/")
 readarray -t UAs <<<"$userAGs"; rND=$(($RANDOM % ${#UAs[@]})); UA=("${UAs[$rND]}")
 adlistFile='adlists.txt'
+
+if [ $(dpkg-query -W -f='${Status}' parallel 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt-get install parallel;
+fi
 
 if [ -f "$adlistFile" ]; then
     mapfile -t sources < "$adlistFile"
