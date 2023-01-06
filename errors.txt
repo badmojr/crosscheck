@@ -1,0 +1,6 @@
+https://block.energized.pro/spark/formats/domains.txt is offline.\n
+https://block.energized.pro/bluGo/formats/domains.txt is offline.\n
+https://block.energized.pro/blu/formats/domains.txt is offline.\n
+https://block.energized.pro/basic/formats/domains.txt is offline.\n
+https://block.energized.pro/ultimate/formats/domains.txt is offline.\n
+https://block.energized.pro/extensions/regional/formats/domains.txt is offline.\n
