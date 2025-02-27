@@ -106,7 +106,7 @@ if [ -f "$adlistFile" ]; then
             printf '%s\n' "${resultXT[@]}" >>results.txt
             unset resultMD resultXT
         else
-            echo "$idURL is offline.\n" >>errors.txt
+            echo -e "$idURL is offline.\n" >>errors.txt
         fi
         unset id mid Loc idURL filevar file matchIDs
     done
