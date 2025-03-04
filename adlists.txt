@@ -33,3 +33,5 @@ https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domain
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
+https://raw.githubusercontent.com/cbuijs/accomplist/main/chris/top.list
+
