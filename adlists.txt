@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/cbuijs/accomplist/main/chris/top.list
 https://o0.pages.dev/Lite/domains.txt
 https://o0.pages.dev/Pro/domains.txt
 https://o0.pages.dev/Xtra/domains.txt
@@ -33,5 +34,3 @@ https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domain
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
-https://raw.githubusercontent.com/cbuijs/accomplist/main/chris/top.list
-
