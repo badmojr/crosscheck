@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/cbuijs/accomplist/main/chris/top.list
 https://o0.pages.dev/Lite/domains.txt
 https://o0.pages.dev/Pro/domains.txt
 https://o0.pages.dev/Xtra/domains.txt
