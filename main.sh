@@ -81,7 +81,7 @@ if [ -f "$adlistFile" ]; then
             filevar="file$mid"
             file="${!filevar}"
             matchIDs=( "${IDs[@]/$id}" )
-            echo -en "\n\n### $idURL\n| % included | URL  |\n|---|---|\n" >>results.md
+            echo -en "\n\n### $idURL\n| % coverage | URL  |\n|---|---|\n" >>results.md
             echo -en "\n\n# $idURL\n-------------------------------------------------\n" >>results.txt
 
             for matchId in "${matchIDs[@]}"; do
