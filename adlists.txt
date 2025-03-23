@@ -8,6 +8,9 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt
+https://energized.pro/spark/domains.txt
+https://energized.pro/blu/domains.txt
+https://energized.pro/ultimate/domains.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts
