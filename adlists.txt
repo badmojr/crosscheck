@@ -8,9 +8,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt
-https://github.com/cbuijs/hagezi/raw/main/lists/pro/domains.top-n
-https://github.com/cbuijs/hagezi/raw/main/lists/pro-plus/domains.top-n
-https://github.com/cbuijs/hagezi/raw/main/lists/ultimate/domains.top-n
 https://energized.pro/spark/domains.txt
 https://energized.pro/blu/domains.txt
 https://energized.pro/ultimate/domains.txt
