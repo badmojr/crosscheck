@@ -1,6 +1,5 @@
-https://o0.pages.dev/Lite/domains.txt
-https://o0.pages.dev/Pro/domains.txt
-https://o0.pages.dev/Xtra/domains.txt
+https://badmojr.github.io/1Hosts/Lite/domains.txt
+https://badmojr.github.io/1Hosts/Xtra/domains.txt
 https://small.oisd.nl/domainswild2
 https://big.oisd.nl/domainswild2
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
