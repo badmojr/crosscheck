@@ -4,15 +4,15 @@
 | % coverage | Blocklist  |
 |---|---|
 | 8 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 65 | https://small.oisd.nl/domainswild2 |
-| 17 | https://big.oisd.nl/domainswild2 |
-| 63 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 66 | https://small.oisd.nl/domainswild2 |
+| 18 | https://big.oisd.nl/domainswild2 |
+| 57 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 41 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 34 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 32 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 33 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 31 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 26 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 12 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 18 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 19 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 35 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 27 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 35 | https://anti-ad.net/domains.txt |
@@ -26,7 +26,7 @@
 | 23 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 20 | https://someonewhocares.org/hosts/hosts |
 | 84 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
-| 68 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 69 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 33 | https://winhelp2002.mvps.org/hosts.txt |
 | 26 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 0 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -34,23 +34,23 @@
 | 46 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 13 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 37 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 29 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 28 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
 ### https://badmojr.github.io/1Hosts/Xtra/domains.txt
 | % coverage | Blocklist  |
 |---|---|
 | 100 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 68 | https://small.oisd.nl/domainswild2 |
+| 69 | https://small.oisd.nl/domainswild2 |
 | 21 | https://big.oisd.nl/domainswild2 |
-| 67 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 50 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 45 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 44 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 61 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 49 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 44 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 43 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 38 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 25 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 20 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 59 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 21 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 58 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 43 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 60 | https://anti-ad.net/domains.txt |
 | 8 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
@@ -77,19 +77,19 @@
 ### https://small.oisd.nl/domainswild2
 | % coverage | Blocklist  |
 |---|---|
-| 34 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 38 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 3 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 22 | https://big.oisd.nl/domainswild2 |
-| 29 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 37 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 26 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 36 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 28 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 24 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 20 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 23 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 19 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 11 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 8 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 9 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 33 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 26 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 32 | https://anti-ad.net/domains.txt |
+| 33 | https://anti-ad.net/domains.txt |
 | 3 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 36 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 8 | https://blocklistproject.github.io/Lists/ads.txt |
@@ -100,7 +100,7 @@
 | 3 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 6 | https://someonewhocares.org/hosts/hosts |
 | 75 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
-| 48 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 47 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 7 | https://winhelp2002.mvps.org/hosts.txt |
 | 7 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 0 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -114,24 +114,24 @@
 ### https://big.oisd.nl/domainswild2
 | % coverage | Blocklist  |
 |---|---|
-| 40 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 44 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 4 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 99 | https://small.oisd.nl/domainswild2 |
-| 47 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 55 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 43 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 37 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 37 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 14 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 41 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 53 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 41 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 35 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 35 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 13 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
 | 49 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 42 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 41 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 33 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 39 | https://anti-ad.net/domains.txt |
 | 6 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 40 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 14 | https://blocklistproject.github.io/Lists/ads.txt |
 | 6 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 21 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 19 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 23 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 4 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
@@ -140,8 +140,8 @@
 | 64 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 23 | https://winhelp2002.mvps.org/hosts.txt |
 | 10 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 37 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 67 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 41 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 68 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 26 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 5 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 19 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
@@ -151,24 +151,24 @@
 ### https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
 | % coverage | Blocklist  |
 |---|---|
-| 27 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 29 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 2 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 24 | https://small.oisd.nl/domainswild2 |
-| 9 | https://big.oisd.nl/domainswild2 |
-| 31 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 23 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 20 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 16 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 8 | https://big.oisd.nl/domainswild2 |
+| 34 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 25 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 21 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 18 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 6 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
 | 11 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 14 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 13 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 11 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 14 | https://anti-ad.net/domains.txt |
 | 2 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 15 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 6 | https://blocklistproject.github.io/Lists/ads.txt |
 | 5 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 50 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 11 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
@@ -178,38 +178,38 @@
 | 12 | https://winhelp2002.mvps.org/hosts.txt |
 | 14 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 0 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 8 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 5 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 17 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 8 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 27 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 18 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 17 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
 ### https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
 | % coverage | Blocklist  |
 |---|---|
-| 57 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 61 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 6 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 98 | https://small.oisd.nl/domainswild2 |
+| 97 | https://small.oisd.nl/domainswild2 |
 | 32 | https://big.oisd.nl/domainswild2 |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 75 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 76 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 64 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 51 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 53 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 19 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
 | 29 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 52 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 51 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 42 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 50 | https://anti-ad.net/domains.txt |
 | 5 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 53 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 19 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 6 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 7 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 55 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 14 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 13 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 17 | https://someonewhocares.org/hosts/hosts |
+| 16 | https://someonewhocares.org/hosts/hosts |
 | 91 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
 | 89 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 25 | https://winhelp2002.mvps.org/hosts.txt |
@@ -219,41 +219,41 @@
 | 29 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 9 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 32 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 20 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 19 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
 ### https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
 | % coverage | Blocklist  |
 |---|---|
-| 63 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 67 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 7 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 99 | https://small.oisd.nl/domainswild2 |
+| 97 | https://small.oisd.nl/domainswild2 |
 | 32 | https://big.oisd.nl/domainswild2 |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 85 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 67 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 84 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 68 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 20 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 31 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 53 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 32 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 52 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 43 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 51 | https://anti-ad.net/domains.txt |
+| 52 | https://anti-ad.net/domains.txt |
 | 6 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 53 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 21 | https://blocklistproject.github.io/Lists/ads.txt |
 | 9 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 8 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 9 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 70 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 16 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 16 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 15 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 20 | https://someonewhocares.org/hosts/hosts |
 | 96 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
 | 91 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 31 | https://winhelp2002.mvps.org/hosts.txt |
 | 19 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 1 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 24 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 40 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 25 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 37 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 14 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 40 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 22 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -262,16 +262,16 @@
 ### https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt
 | % coverage | Blocklist  |
 |---|---|
-| 71 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 75 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 8 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 99 | https://small.oisd.nl/domainswild2 |
+| 97 | https://small.oisd.nl/domainswild2 |
 | 33 | https://big.oisd.nl/domainswild2 |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 79 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 22 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 32 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 82 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 21 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 33 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 53 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 44 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 52 | https://anti-ad.net/domains.txt |
@@ -279,8 +279,8 @@
 | 54 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 22 | https://blocklistproject.github.io/Lists/ads.txt |
 | 11 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 10 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 71 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
+| 11 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 72 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 20 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 17 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 21 | https://someonewhocares.org/hosts/hosts |
@@ -289,20 +289,20 @@
 | 31 | https://winhelp2002.mvps.org/hosts.txt |
 | 22 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 1 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 24 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 54 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 25 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 49 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 22 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 44 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 27 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 26 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
 ### https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt
 | % coverage | Blocklist  |
 |---|---|
-| 72 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 76 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 9 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 99 | https://small.oisd.nl/domainswild2 |
-| 40 | https://big.oisd.nl/domainswild2 |
+| 97 | https://small.oisd.nl/domainswild2 |
+| 39 | https://big.oisd.nl/domainswild2 |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
@@ -319,38 +319,38 @@
 | 16 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 72 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 24 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 18 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 17 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 21 | https://someonewhocares.org/hosts/hosts |
 | 99 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
-| 93 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 92 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 32 | https://winhelp2002.mvps.org/hosts.txt |
 | 22 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 2 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 33 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 60 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| 35 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 54 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 30 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 56 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 29 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
+| 27 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
 ### https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 | % coverage | Blocklist  |
 |---|---|
-| 25 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 27 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 5 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 44 | https://small.oisd.nl/domainswild2 |
+| 43 | https://small.oisd.nl/domainswild2 |
 | 12 | https://big.oisd.nl/domainswild2 |
-| 28 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 29 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 23 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 21 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 25 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 27 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 22 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 20 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 17 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 14 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 15 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 45 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 42 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 48 | https://anti-ad.net/domains.txt |
+| 47 | https://anti-ad.net/domains.txt |
 | 14 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 45 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 44 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 26 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 1 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
@@ -359,7 +359,7 @@
 | 100 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 13 | https://someonewhocares.org/hosts/hosts |
 | 97 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
-| 64 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 63 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 23 | https://winhelp2002.mvps.org/hosts.txt |
 | 17 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 0 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
@@ -373,15 +373,15 @@
 ### https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 | % coverage | Blocklist  |
 |---|---|
-| 8 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 9 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 1 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 8 | https://small.oisd.nl/domainswild2 |
 | 11 | https://big.oisd.nl/domainswild2 |
-| 13 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 10 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 10 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 9 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 8 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 7 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 7 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 6 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 3 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
 | 10 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 7 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
@@ -396,11 +396,11 @@
 | 10 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 99 | https://someonewhocares.org/hosts/hosts |
 | 72 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
-| 96 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
+| 95 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 100 | https://winhelp2002.mvps.org/hosts.txt |
 | 8 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 5 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 92 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 4 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 91 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 40 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 9 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 23 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
@@ -410,21 +410,21 @@
 ### https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts
 | % coverage | Blocklist  |
 |---|---|
-| 45 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 48 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 7 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 80 | https://small.oisd.nl/domainswild2 |
+| 78 | https://small.oisd.nl/domainswild2 |
 | 23 | https://big.oisd.nl/domainswild2 |
-| 40 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 47 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 37 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 32 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 26 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 34 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 46 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 36 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 30 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 25 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 28 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 29 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 30 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 66 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 84 | https://anti-ad.net/domains.txt |
+| 83 | https://anti-ad.net/domains.txt |
 | 9 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 63 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 62 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 21 | https://blocklistproject.github.io/Lists/ads.txt |
 | 8 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
@@ -447,21 +447,21 @@
 ### https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 | % coverage | Blocklist  |
 |---|---|
-| 52 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 55 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 7 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 94 | https://small.oisd.nl/domainswild2 |
+| 92 | https://small.oisd.nl/domainswild2 |
 | 28 | https://big.oisd.nl/domainswild2 |
-| 51 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 58 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 46 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 40 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 44 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 57 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 44 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 38 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 32 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 39 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 32 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 33 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 100 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
-| 88 | https://anti-ad.net/domains.txt |
+| 87 | https://anti-ad.net/domains.txt |
 | 12 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 100 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 98 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 27 | https://blocklistproject.github.io/Lists/ads.txt |
 | 10 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
@@ -484,17 +484,17 @@
 ### https://anti-ad.net/domains.txt
 | % coverage | Blocklist  |
 |---|---|
-| 39 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 42 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 6 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 66 | https://small.oisd.nl/domainswild2 |
+| 67 | https://small.oisd.nl/domainswild2 |
 | 18 | https://big.oisd.nl/domainswild2 |
-| 36 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 32 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 40 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 32 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 31 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 27 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 22 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 26 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 8 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 9 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 73 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 51 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 7 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
@@ -521,21 +521,21 @@
 ### https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 | % coverage | Blocklist  |
 |---|---|
-| 16 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 17 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 3 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
-| 25 | https://small.oisd.nl/domainswild2 |
+| 24 | https://small.oisd.nl/domainswild2 |
 | 12 | https://big.oisd.nl/domainswild2 |
-| 16 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 15 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 17 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 15 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 14 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 14 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 14 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 13 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 13 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 28 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 26 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 28 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 30 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 27 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 29 | https://anti-ad.net/domains.txt |
-| 22 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 21 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 16 | https://blocklistproject.github.io/Lists/ads.txt |
 | 6 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
@@ -548,7 +548,7 @@
 | 22 | https://winhelp2002.mvps.org/hosts.txt |
 | 12 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 0 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 9 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 10 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 26 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 6 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 12 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
@@ -558,24 +558,24 @@
 ### https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 | % coverage | Blocklist  |
 |---|---|
-| 45 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 49 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 5 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 89 | https://small.oisd.nl/domainswild2 |
 | 22 | https://big.oisd.nl/domainswild2 |
-| 43 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 50 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 40 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 49 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 38 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 33 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
-| 27 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 28 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 9 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 28 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 29 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+| 10 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 66 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 69 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 68 | https://anti-ad.net/domains.txt |
 | 6 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
 | 14 | https://blocklistproject.github.io/Lists/ads.txt |
 | 7 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
+| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 21 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 12 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | 3 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
@@ -583,7 +583,7 @@
 | 47 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
 | 44 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 8 | https://winhelp2002.mvps.org/hosts.txt |
-| 14 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
+| 15 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
 | 0 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
 | 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 43 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
@@ -595,27 +595,27 @@
 ### https://blocklistproject.github.io/Lists/ads.txt
 | % coverage | Blocklist  |
 |---|---|
-| 14 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 16 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 1 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 12 | https://small.oisd.nl/domainswild2 |
 | 6 | https://big.oisd.nl/domainswild2 |
-| 12 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 11 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 11 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 9 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 8 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 7 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 11 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 29 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 31 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 13 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 11 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 9 | https://anti-ad.net/domains.txt |
+| 8 | https://anti-ad.net/domains.txt |
 | 3 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 9 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 8 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 12 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 73 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
 | 15 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 96 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 97 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 58 | https://someonewhocares.org/hosts/hosts |
 | 72 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt |
 | 74 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
@@ -669,22 +669,22 @@
 ### https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 | % coverage | Blocklist  |
 |---|---|
-| 14 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 15 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 4 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 26 | https://small.oisd.nl/domainswild2 |
-| 54 | https://big.oisd.nl/domainswild2 |
-| 27 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 28 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 28 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
-| 29 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
+| 51 | https://big.oisd.nl/domainswild2 |
+| 34 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 30 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 30 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 30 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 38 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 3 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 38 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 36 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 14 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 10 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 12 | https://anti-ad.net/domains.txt |
 | 4 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 11 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
+| 12 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt |
 | 1 | https://blocklistproject.github.io/Lists/ads.txt |
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt |
@@ -695,8 +695,8 @@
 | 2 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext |
 | 0 | https://winhelp2002.mvps.org/hosts.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 37 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
-| 68 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
+| 41 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt |
+| 67 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
@@ -743,12 +743,12 @@
 ### https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 | % coverage | Blocklist  |
 |---|---|
-| 5 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 0 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
+| 6 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 1 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 2 | https://small.oisd.nl/domainswild2 |
 | 2 | https://big.oisd.nl/domainswild2 |
-| 8 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 4 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 7 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 2 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
@@ -780,11 +780,11 @@
 ### https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 | % coverage | Blocklist  |
 |---|---|
-| 4 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 5 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 1 | https://small.oisd.nl/domainswild2 |
 | 1 | https://big.oisd.nl/domainswild2 |
-| 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 2 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
@@ -827,7 +827,7 @@
 | 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 1 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 18 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 19 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 2 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 1 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 1 | https://anti-ad.net/domains.txt |
@@ -891,7 +891,7 @@
 ### https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext
 | % coverage | Blocklist  |
 |---|---|
-| 2 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 3 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 3 | https://small.oisd.nl/domainswild2 |
 | 1 | https://big.oisd.nl/domainswild2 |
@@ -965,7 +965,7 @@
 ### https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 | % coverage | Blocklist  |
 |---|---|
-| 4 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 5 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 2 | https://small.oisd.nl/domainswild2 |
 | 1 | https://big.oisd.nl/domainswild2 |
@@ -1005,15 +1005,15 @@
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 0 | https://small.oisd.nl/domainswild2 |
-| 2 | https://big.oisd.nl/domainswild2 |
+| 3 | https://big.oisd.nl/domainswild2 |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 0 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 2 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 1 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
+| 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 1 | https://anti-ad.net/domains.txt |
 | 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
@@ -1043,13 +1043,13 @@
 | 0 | https://badmojr.github.io/1Hosts/Xtra/domains.txt |
 | 0 | https://small.oisd.nl/domainswild2 |
 | 7 | https://big.oisd.nl/domainswild2 |
-| 5 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 5 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 4 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
+| 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
+| 4 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
 | 0 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 48 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 47 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts |
 | 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 | 0 | https://anti-ad.net/domains.txt |
@@ -1192,7 +1192,7 @@
 | 1 | https://small.oisd.nl/domainswild2 |
 | 0 | https://big.oisd.nl/domainswild2 |
 | 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
+| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
