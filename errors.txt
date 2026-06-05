@@ -283,3 +283,23 @@ https://energized.pro/ultimate/domains.txt is offline.
 
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt is offline.
 
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt is offline.
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt is offline.
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt is offline.
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt is offline.
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt is offline.
+
+https://energized.pro/spark/domains.txt is offline.
+
+https://energized.pro/blu/domains.txt is offline.
+
+https://energized.pro/ultimate/domains.txt is offline.
+
+https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt is offline.
+
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt is offline.
+
