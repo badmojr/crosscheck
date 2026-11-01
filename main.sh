@@ -30,11 +30,10 @@ cURL() {
 
 unset sources userAGs UAs rND UA index id IDs fileLoc scs Loc idURL file matchIDs matchId matchLoc matchURL fileMatch entrSum matchSum percent resMd resultMD resXT resultXT
 userAGs=$(curl -fsSL https://assets.staticnetcontent.com/extension/useragents.txt |sed "s/^/\'/; s/$/\'/")
-readarray -t UAs <<<"$userAGs"; rND=$(($RANDOM % ${#UAs[@]})); UA=("${UAs[$rND]}")
+readarray -t UAs <<<"$userAGs"; rND=$((RANDOM % ${#UAs[@]})); UA=("${UAs[$rND]}")
 adlistFile='adlists.txt'
 
-if [ $(dpkg-query -W -f='${Status}' parallel 2>/dev/null | grep -c "ok installed") -eq 0 ];
-then
+if [ $(dpkg-query -W -f='${Status}' parallel 2>/dev/null | grep -c "ok installed") -eq 0 ]; then
   sudo apt-get install parallel;
 fi
 
@@ -54,7 +53,7 @@ if [ -f "$adlistFile" ]; then
     unset URL index id fileLoc
 
     echo "Downloading blocklists..."
-    parallel -j10 --colsep "," cURL -o "data/'{1}'" '{2}' :::: <<< $(printf "%s\n" ${scs[@]})
+    parallel -j10 --colsep "," cURL -o "data/'{1}'" '{2}' :::: < <(printf "%s\n" "${scs[@]}")
 
     echo "Preparing blocklists..."
     for uid in "${IDs[@]}"; do
@@ -74,7 +73,7 @@ if [ -f "$adlistFile" ]; then
         mid=$(echo "$id" |cut -f2 -d '_')
         Loc="data/$id"
         indexQ=$((indexQ+1))
-        idURL=$(grep -F "$Loc" <<< $(printf "%s\n" ${scs[@]}) |cut -f2 -d ",")
+        idURL=$(grep -F "$Loc" <<< "$(printf "%s\n" "${scs[@]}")" |cut -f2 -d ",")
 
         echo "$indexQ/${#IDs[@]}: $idURL"
         if [ -f "$Loc" ]; then
@@ -88,7 +87,7 @@ if [ -f "$adlistFile" ]; then
                 matchLoc="data/$matchId"
                 if [ -f "$matchLoc" ]; then
                     mad=$(echo "$matchId" |cut -f2 -d '_')
-                    matchURL=$(grep -F "$matchLoc" <<< $(printf "%s\n" ${scs[@]}) |cut -f2 -d ",")
+                    matchURL=$(grep -F "$matchLoc" <<< "$(printf "%s\n" "${scs[@]}")" |cut -f2 -d ",")
                     fileMatchvar="cl${mad}"
                     fileMatch="${!fileMatchvar}"
                     entrSum=$(prints <<<"$fileMatch" |grep -c .)
